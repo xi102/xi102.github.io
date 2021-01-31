@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 欢迎来到102网吧</title>
+		<link>https://xi102.js.org/posts/</link>
+		<description>Recent content in Posts on 欢迎来到102网吧</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-CN</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Fri, 29 Jan 2021 11:36:33 +0800</lastBuildDate>
+		<atom:link href="https://xi102.js.org/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>好耶！是第一篇公告</title>
+			<link>https://xi102.js.org/posts/typography/</link>
+			<pubDate>Fri, 29 Jan 2021 11:36:33 +0800</pubDate>
+			
+			<guid>https://xi102.js.org/posts/typography/</guid>
+			<description>假装是个公告板，以后就在这里记录变迁了 本站不代表实验室官方。</description>
+			<content type="html"><![CDATA[<p>假装是个公告板，以后就在这里记录变迁了</p>
+<p>本站不代表实验室官方。</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
