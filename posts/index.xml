@@ -6,15 +6,31 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-CN</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 29 Jan 2021 11:36:33 +0800</lastBuildDate>
+		<lastBuildDate>Mon, 01 Feb 2021 20:17:04 +0800</lastBuildDate>
 		<atom:link href="https://xi102.js.org/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>祖传项目整理中</title>
+			<link>https://xi102.js.org/posts/legacy-code/</link>
+			<pubDate>Mon, 01 Feb 2021 20:17:04 +0800</pubDate>
+			
+			<guid>https://xi102.js.org/posts/legacy-code/</guid>
+			<description>整理了一下乱糟糟的Windows公用工作站，那个老的Ubuntu16.04，还有很老很老的阿里云老CentOS，清理归档各路祖传屎山和文件。</description>
+			<content type="html"><![CDATA[<p>整理了一下乱糟糟的Windows公用工作站，那个老的Ubuntu16.04，还有很老很老的阿里云老CentOS，清理归档各路祖传屎山和文件。后面陆续放出各路祖传代码和历史文物。</p>
+<p>这些祖传屎山大部分都没有注释和文档，也没有git或者svn之类的版本控制。</p>
+<p>勉强加了点文档和注释，能跑通的基本写了运行方法，能升级的尽量将环境依赖升级了一波。</p>
+<p>目前只整理了几个年代比较近的，师兄师姐刚毕业也还认识，项目还比较熟，有些项目还帮他们做过一点。基本都还能看懂是干什么的，补写了一些文档，包括运行环境要求、使用方法和大致功能。</p>
+<p>快要过年了，后续的一些整理到年后开学再放出。</p>
+<p>提前祝大家新年快乐。</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>好耶！是第一篇公告</title>
-			<link>https://xi102.js.org/posts/typography/</link>
+			<link>https://xi102.js.org/posts/hello-world/</link>
 			<pubDate>Fri, 29 Jan 2021 11:36:33 +0800</pubDate>
 			
-			<guid>https://xi102.js.org/posts/typography/</guid>
+			<guid>https://xi102.js.org/posts/hello-world/</guid>
 			<description>假装是个公告板，以后就在这里记录变迁了 本站不代表实验室官方。</description>
 			<content type="html"><![CDATA[<p>假装是个公告板，以后就在这里记录变迁了</p>
 <p>本站不代表实验室官方。</p>
